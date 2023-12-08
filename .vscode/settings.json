@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "xtree": "cpp",
+        "map": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "xutility": "cpp"
+    }
+}
